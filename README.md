@@ -7,7 +7,7 @@ C1 - Done
 
 C2 - Done
 
-C4 - (Clustering to be uploaded, Writeup to be uploaded)
+C4 - (Writeup remains)
 
 Final PPT - TBD
 
