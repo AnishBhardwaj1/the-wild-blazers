@@ -1,0 +1,4 @@
+Visualizations
+Gender Distribution of Officers per District -  https://observablehq.com/d/12675256968ae250 
+Population Race Distribution vs Police Race Distribution per district - https://observablehq.com/d/03d15b41d6bb2884
+Population to Police Officer Ratio and Allegation Rate per police officer per district - https://observablehq.com/d/9639fa4f48c4de3d 
