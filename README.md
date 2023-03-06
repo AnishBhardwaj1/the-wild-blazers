@@ -3,6 +3,8 @@ DataScienceSeminar
 
 Team Members: Anish Bhardwaj
 
+Proposal - Done
+
 C1 - Done
 
 C2 - Done
