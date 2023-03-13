@@ -9,8 +9,8 @@ C1 - Done
 
 C2 - Done
 
-C4 - (Writeup remains)
+C4 - Done
 
-Final PPT - TBD
+Final PPT - Done (https://docs.google.com/presentation/d/1RRHzeuUkWOXS6iiQWwI4uQ-HK4ideNgF4VEODZqlsOc/edit?usp=sharing)
 
 Final Report - TBD
